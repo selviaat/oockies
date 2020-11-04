@@ -1,0 +1,77 @@
+LI {
+  list-style: none;
+  FLOAT:RIGHT;
+  COLOR: WHITE;
+  padding-left: 20PX;
+  padding-right: 20PX;
+  padding-top: 15PX;
+  padding-bottom: 15PX;
+  font-size: 13px;
+  line-height:20px;
+  padding-left:25px;
+  padding-right:25px;
+  color:white;
+  display:block;
+  background-color: rgba(255, 255, 255, 0.3);
+  transition: all 0.5s;
+
+}
+.li:hover{
+  background-color:rgba(255, 255, 255, 0.5);
+}
+.HEADER {
+  background-color: #835858;
+  HEIGHT:50PX;
+  
+
+}
+.HEADER-LOGO{
+  FLOAT:LEFT;
+  font-size: 35PX;
+  font-family: 'AVENIR NEXT';
+  COLOR: WHITE;
+  padding-left: 20PX;
+  letter-spacing: 3PX;
+}
+
+.depan{
+  padding: 180px 0 100px 0;
+  background-image: url(https://i.pinimg.com/originals/2d/d7/ca/2dd7cad2042d3f87dc631e72b1e56643.jpg);
+  background-size: cover;
+  color:white;
+  height: 250px;
+  text-align: center;
+}
+.depan-bos{
+  width:1170PX;
+  padding:0 15px;
+  margin: 0 auto;
+}
+.depan-BOX h1 {
+  font-size: 55px;
+  letter-spacing: 5px;
+  margin-bottom: 15px;
+}
+
+.depan-BOX p {
+  font-size: 35px;
+  letter-spacing: 5px;
+}
+.depan-button{
+  padding: 8px 24px;
+  color: #734046;
+  display: inline-block;
+  border-radius:10px;
+  font-size: 25px;
+  margin: auto;
+  opacity: 0,8;
+
+
+}
+.button{
+  background-color: #a05344;
+  color: white;
+}
+.button:hover{
+  opacity: 1;
+}
